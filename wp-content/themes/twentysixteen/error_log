@@ -1,0 +1,4 @@
+[09-Dec-2019 13:44:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/tecslide/public_html/wp/wp-content/themes/twentysixteen/functions.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tecslide/public_html/wp/wp-content/themes/twentysixteen/functions.php on line 32

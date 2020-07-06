@@ -1,0 +1,12 @@
+[09-Dec-2019 13:45:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/tecslide/public_html/wp/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tecslide/public_html/wp/wp-content/themes/twentyseventeen/functions.php on line 16
+[28-May-2020 12:01:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/tecslide/public_html/wp/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tecslide/public_html/wp/wp-content/themes/twentyseventeen/functions.php on line 16
+[28-May-2020 12:01:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/tecslide/public_html/wp/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tecslide/public_html/wp/wp-content/themes/twentyseventeen/functions.php on line 16
